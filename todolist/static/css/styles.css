@@ -1,0 +1,12 @@
+
+body {
+    background-color: #0ba1bf;
+}
+
+.main-div {
+    background-color: #fae79d;
+    margin: 80px;
+    padding: 10px;
+    height: 90%;
+    border-radius: 10px;
+}
